@@ -1,9 +1,9 @@
 # AdventureWorks-SQL-Excel
 Data cleansing, analysis and dashboard using SQL and Excel
 
-Project developed as assignment of the course SQL Impressionador from HashtagTreinamentos.
+This project was developed as one of the assignments of the SQL Impressionador course from HashtagTreinamentos.
 
-The goal of this project was to present, on a dashboard, 4 indicators obteined with the dataset AdvetureWorks2019 updated:
+The project goal was to present, on a dashboard, 4 indicators obtained with the dataset AdvetureWorks2019 updated:
 
 1. Total Internet Sales by Category
 2. Total Internet Sales by OrderDate Month
