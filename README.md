@@ -1,7 +1,7 @@
 # AdventureWorks-SQL-Excel
 Data cleansing, analysis and dashboard using SQL and Excel
 
-This project was developed as one of the assignments of the SQL Impressionador course from HashtagTreinamentos.
+This project was developed as assignment of the SQL Impressionador course from HashtagTreinamentos.
 
 The project goal was to present, on a dashboard, 4 indicators obtained with the dataset AdvetureWorks2019 updated:
 
